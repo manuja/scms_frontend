@@ -1,0 +1,37 @@
+{
+	"description": "The CodeIgniter framework",
+	"name": "codeigniter/framework",
+	"type": "project",
+	"homepage": "https://codeigniter.com",
+	"license": "MIT",
+	"support": {
+		"forum": "http://forum.codeigniter.com/",
+		"wiki": "https://github.com/bcit-ci/CodeIgniter/wiki",
+		"slack": "https://codeigniterchat.slack.com",
+		"source": "https://github.com/bcit-ci/CodeIgniter"
+	},
+	"require": {
+		"php": ">=5.3.7",
+		"yidas/codeigniter-psr4-autoload": "1.0.0",
+		"giggsey/libphonenumber-for-php": "8.9.3",
+		"phpoffice/phpspreadsheet": "1.2.1",
+		"quickbooks/v3-php-sdk": "v5.0.0",
+		"jackocnr/intl-tel-input": "12.1.15",
+		"dompdf/dompdf": "^0.8.2",
+		"phpoffice/phpword": "^0.14.0",
+		"aws/aws-sdk-php": "^3.62",
+		"vlucas/phpdotenv": "^2.5",
+		"twitter/typeahead.js": "v0.11.1",
+		"bassjobsen/bootstrap-3-typeahead": "4.0.2",
+		"guzzlehttp/guzzle": "~6.0",
+		"phpmailer/phpmailer": "~6.0",
+		"swiftmailer/swiftmailer": "^6.0"
+	},
+	"suggest": {
+		"paragonie/random_compat": "Provides better randomness in PHP 5.x"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*",
+		"phpunit/phpunit": "4.* || 5.*"
+	}
+}

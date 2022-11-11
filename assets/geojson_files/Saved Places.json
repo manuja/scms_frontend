@@ -1,0 +1,25 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "geometry" : {
+      "coordinates" : [ 79.9260948, 6.8995828 ],
+      "type" : "Point"
+    },
+    "properties" : {
+      "Google Maps URL" : "http://maps.google.com/?cid=13863056334742113964",
+      "Location" : {
+        "Address" : "216 Denzil Kobbekaduwa Mawatha, Battaramulla 10120, Sri Lanka",
+        "Business_Name" : "Road Development Authority Head Office",
+        "Country Code" : "LK",
+        "Geo Coordinates" : {
+          "Latitude" : "6.8995828",
+          "Longitude" : "79.9260948"
+        }
+      },
+      "Published" : "2021-03-29T07:23:36Z",
+      "Title" : "Road Development Authority Head Office",
+      "Updated" : "2021-03-29T07:23:36Z"
+    },
+    "type" : "Feature"
+  } ]
+}
